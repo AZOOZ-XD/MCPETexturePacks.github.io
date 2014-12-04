@@ -1,0 +1,10 @@
+Package: com.herobrinemodder.mcpemodder
+Name: MCPE Modder
+Depends: mobilesubstrate, org.coolstar.iostoolchain, com.herobrinemodder.devkit, com.conradkramer.open
+Version: 0.2~alpha
+Architecture: iphoneos-arm
+Description: An app that allows you to create your own mods for MCPE!
+Depiction: http://herobrinemodder.github.io/mcpemodder.html
+Maintainer: Herobrinemodder <eddy1270@icloud.com>
+Author: Herobrinemodder <eddy1270@icloud.com>
+Section: Utilities
